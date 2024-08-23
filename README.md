@@ -1,6 +1,6 @@
 # Hi 👋 I'm [Katie Taylor](https://kmxtaylor.github.io)
 
-I'm passionate about creating software solutions that are effective, maintainable, usable and accessible because I believe that technology simply amplifies efforts toward any goal and, as a result, has the potential to shape our world for the better when developed with care and empathy through a lens of user-centered design and sustainability.
+I'm passionate about creating software solutions that are effective, maintainable, usable and accessible. I believe that technology simply amplifies efforts toward any goal and, as a result, has the potential to shape our world for the better when developed with care and empathy using human-centered design.
 
 - 😄 Pronouns: they/them
 - ⚡ In addition to software development, I love partner dancing, foreign languages and spending time in nature!
